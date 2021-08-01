@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qianyuli/qianyuli_muduo/MYMUDUO/Logger.cc
+Logger.h
+/home/qianyuli/qianyuli_muduo/MYMUDUO/Logger.h
+Timestamp.h
+/home/qianyuli/qianyuli_muduo/MYMUDUO/Timestamp.h
+
+/home/qianyuli/qianyuli_muduo/MYMUDUO/Logger.h
+iostream
+-
+noncopyable.h
+/home/qianyuli/qianyuli_muduo/MYMUDUO/noncopyable.h
+
+/home/qianyuli/qianyuli_muduo/MYMUDUO/Timestamp.cc
+Timestamp.h
+/home/qianyuli/qianyuli_muduo/MYMUDUO/Timestamp.h
+time.h
+-
+iostream
+-
+
+/home/qianyuli/qianyuli_muduo/MYMUDUO/Timestamp.h
+string
+-
+
+/home/qianyuli/qianyuli_muduo/MYMUDUO/noncopyable.h
+

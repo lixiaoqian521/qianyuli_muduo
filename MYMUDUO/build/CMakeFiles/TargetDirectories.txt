@@ -1,0 +1,3 @@
+/home/qianyuli/qianyuli_muduo/MYMUDUO/build/CMakeFiles/rebuild_cache.dir
+/home/qianyuli/qianyuli_muduo/MYMUDUO/build/CMakeFiles/mymuduo.dir
+/home/qianyuli/qianyuli_muduo/MYMUDUO/build/CMakeFiles/edit_cache.dir
