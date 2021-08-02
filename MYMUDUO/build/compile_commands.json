@@ -1,8 +1,28 @@
 [
 {
   "directory": "/home/qianyuli/qianyuli_muduo/MYMUDUO/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Channel.cc.o -c /home/qianyuli/qianyuli_muduo/MYMUDUO/Channel.cc",
+  "file": "/home/qianyuli/qianyuli_muduo/MYMUDUO/Channel.cc"
+},
+{
+  "directory": "/home/qianyuli/qianyuli_muduo/MYMUDUO/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoop.cc.o -c /home/qianyuli/qianyuli_muduo/MYMUDUO/EventLoop.cc",
+  "file": "/home/qianyuli/qianyuli_muduo/MYMUDUO/EventLoop.cc"
+},
+{
+  "directory": "/home/qianyuli/qianyuli_muduo/MYMUDUO/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/InetAddress.cc.o -c /home/qianyuli/qianyuli_muduo/MYMUDUO/InetAddress.cc",
+  "file": "/home/qianyuli/qianyuli_muduo/MYMUDUO/InetAddress.cc"
+},
+{
+  "directory": "/home/qianyuli/qianyuli_muduo/MYMUDUO/build",
   "command": "/usr/bin/x86_64-linux-gnu-g++-7  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Logger.cc.o -c /home/qianyuli/qianyuli_muduo/MYMUDUO/Logger.cc",
   "file": "/home/qianyuli/qianyuli_muduo/MYMUDUO/Logger.cc"
+},
+{
+  "directory": "/home/qianyuli/qianyuli_muduo/MYMUDUO/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/TcpServer.cc.o -c /home/qianyuli/qianyuli_muduo/MYMUDUO/TcpServer.cc",
+  "file": "/home/qianyuli/qianyuli_muduo/MYMUDUO/TcpServer.cc"
 },
 {
   "directory": "/home/qianyuli/qianyuli_muduo/MYMUDUO/build",
