@@ -3,6 +3,10 @@
 
 CMakeFiles/mymuduo.dir/Channel.cc.o
  /home/qianyuli/qianyuli_muduo/MYMUDUO/Channel.cc
+ /home/qianyuli/qianyuli_muduo/MYMUDUO/Channel.h
+ /home/qianyuli/qianyuli_muduo/MYMUDUO/EventLoop.h
+ /home/qianyuli/qianyuli_muduo/MYMUDUO/Timestamp.h
+ /home/qianyuli/qianyuli_muduo/MYMUDUO/noncopyable.h
 CMakeFiles/mymuduo.dir/EventLoop.cc.o
  /home/qianyuli/qianyuli_muduo/MYMUDUO/EventLoop.cc
 CMakeFiles/mymuduo.dir/InetAddress.cc.o

@@ -7,8 +7,24 @@
 #IncludeRegexTransform: 
 
 /home/qianyuli/qianyuli_muduo/MYMUDUO/Channel.cc
+Channel.h
+/home/qianyuli/qianyuli_muduo/MYMUDUO/Channel.h
+
+/home/qianyuli/qianyuli_muduo/MYMUDUO/Channel.h
+memory
+-
+functional
+-
+noncopyable.h
+/home/qianyuli/qianyuli_muduo/MYMUDUO/noncopyable.h
+EventLoop.h
+/home/qianyuli/qianyuli_muduo/MYMUDUO/EventLoop.h
+Timestamp.h
+/home/qianyuli/qianyuli_muduo/MYMUDUO/Timestamp.h
 
 /home/qianyuli/qianyuli_muduo/MYMUDUO/EventLoop.cc
+
+/home/qianyuli/qianyuli_muduo/MYMUDUO/EventLoop.h
 
 /home/qianyuli/qianyuli_muduo/MYMUDUO/InetAddress.cc
 InetAddress.h
