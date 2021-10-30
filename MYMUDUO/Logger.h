@@ -70,3 +70,4 @@ private:
 int LogLevel_;
 Logger(){}
 };
+//test log
